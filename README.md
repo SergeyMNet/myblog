@@ -1,0 +1,2 @@
+# myblog
+static blog site
